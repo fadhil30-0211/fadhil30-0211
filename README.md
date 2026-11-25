@@ -21,9 +21,11 @@
 
 ---
 
-### 🙋‍♂️ About Me
+### Hi there 👋 , I'm Fadhil Ramadhan!
 
-I am a **Full-Stack Web & Mobile Developer** focused on building scalable, high-performance web systems and intuitive mobile applications. With strong hands-on experience in **Laravel**, **Flutter**, and **Modern UI Frameworks**, I enjoy turning complex business workflows into clean, maintainable digital products.
+Hi there, I'm *Fadhil Ramadhan*, a *Full-Stack Web & Mobile Developer* 🚀 from Indonesia.
+
+I am focused on building scalable, high-performance web systems and intuitive mobile applications. With strong hands-on experience in **Laravel**, **FilamentPHP**, **Flutter**, and **Modern UI Frameworks**, I enjoy turning complex business workflows into clean, maintainable digital products.
 
 - 🔭 **Currently Building:** Enterprise web portals, academic information systems, and interactive learning platforms.
 - 🌱 **Exploring:** Microservices architecture, RESTful API optimization, and AI-assisted web applications.
@@ -37,6 +39,16 @@ I am a **Full-Stack Web & Mobile Developer** focused on building scalable, high-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,laravel,python,js,dart,flutter,kotlin,html,css,tailwind,bootstrap,mysql,git,github,vscode,androidstudio&perline=8" />
+  </a>
+  <br />
+  <a href="https://filamentphp.com" target="_blank">
+    <img src="https://img.shields.io/badge/FilamentPHP-FDAE4B?style=for-the-badge&logo=laravel&logoColor=1E293B" alt="FilamentPHP" />
+  </a>
+  <a href="https://alpinejs.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=1E293B" alt="Alpine.js" />
+  </a>
+  <a href="https://livewire.laravel.com" target="_blank">
+    <img src="https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" />
   </a>
 </p>
 
@@ -56,8 +68,8 @@ I am a **Full-Stack Web & Mobile Developer** focused on building scalable, high-
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fadhil30-0211&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fadhil30-0211&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fadhil30-0211&show_icons=true&theme=default&title_color=2563EB&icon_color=2563EB&text_color=1E293B&bg_color=FFFFFF" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadhil30-0211&layout=compact&theme=default&title_color=2563EB&text_color=1E293B&bg_color=FFFFFF" width="49%" />
 </p>
 
 ---
