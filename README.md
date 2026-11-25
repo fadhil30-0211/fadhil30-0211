@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:3B82F6&height=210&section=header&text=Hi,%20I'm%20Fadhil%20Ramadhan&fontSize=42&fontColor=FFFFFF&animation=fadeIn&desc=Full-Stack%20Web%20%26%20Mobile%20Developer&descAlignY=68&descSize=18" width="100%" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="Snake animation" />
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -68,8 +70,16 @@ I am focused on building scalable, high-performance web systems and intuitive mo
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fadhil30-0211&show_icons=true&theme=default&title_color=2563EB&icon_color=2563EB&text_color=1E293B&bg_color=FFFFFF" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadhil30-0211&layout=compact&theme=default&title_color=2563EB&text_color=1E293B&bg_color=FFFFFF" width="49%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=fadhil30-0211&show_icons=true&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=fadhil30-0211&show_icons=true&theme=default&title_color=2563EB&icon_color=2563EB&text_color=1E293B&bg_color=FFFFFF" />
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fadhil30-0211&show_icons=true&theme=default&title_color=2563EB&icon_color=2563EB&text_color=1E293B&bg_color=FFFFFF" width="49%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fadhil30-0211&layout=compact&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fadhil30-0211&layout=compact&theme=default&title_color=2563EB&text_color=1E293B&bg_color=FFFFFF" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadhil30-0211&layout=compact&theme=default&title_color=2563EB&text_color=1E293B&bg_color=FFFFFF" width="49%" />
+  </picture>
 </p>
 
 ---
