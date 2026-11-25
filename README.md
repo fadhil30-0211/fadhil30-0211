@@ -1,43 +1,67 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Fadhil%20Ramadhan&fontSize=40&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:3B82F6&height=210&section=header&text=Hi,%20I'm%20Fadhil%20Ramadhan&fontSize=42&fontColor=FFFFFF&animation=fadeIn&desc=Full-Stack%20Web%20%26%20Mobile%20Developer&descAlignY=68&descSize=18" width="100%" />
+
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72585&width=435&lines=Full-Stack+Web+Developer;Laravel+%26+Flutter+Enthusiast;Building+Scalable+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Apps+with+Laravel;Crafting+Cross-Platform+Apps+with+Flutter;Clean+UI%2FUX+%26+RESTful+API+Architecture;Full-Stack+Developer+%7C+Informatics+Student" alt="Typing SVG" />
   </a>
 </p>
-<h2>🙋‍♂️ About Me</h2>
-<p>I am a passionate <b>Full-Stack Web & Mobile Developer</b> dedicated to crafting efficient, scalable, and user-friendly applications. With a strong foundation in PHP, JavaScript, and Dart, I specialize in building modern web platforms using <b>Laravel</b> and cross-platform mobile apps using <b>Flutter</b>.</p>
-<ul>
-  <li>🔭 <b>Current Focus:</b> Developing enterprise web applications and mobile solutions.</li>
-  <li>🌱 <b>Learning & Exploring:</b> Advanced microservices architecture and cloud technologies.</li>
-  <li>💡 <b>Mindset:</b> Quick learner, problem solver, and collaborative team player.</li>
-</ul>
-<br />
-<p align="left">
+
+<p align="center">
   <a href="mailto:fadhilramadhan743@gmail.com">
-    <img src="https://img.shields.io/badge/Email-fadhilramadhan743%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-fadhilramadhan743%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=fadhil30-0211&label=Profile%20Views&color=0e75b6&style=flat-square" />
+  <a href="https://linkedin.com/in/fadhil30-0211">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=fadhil30-0211&label=Profile%20Views&color=0F172A&style=for-the-badge" />
   <a href="https://github.com/fadhil30-0211?tab=followers">
-    <img src="https://img.shields.io/github/followers/fadhil30-0211?label=GitHub%20Followers&style=flat-square&color=blue" />
+    <img src="https://img.shields.io/github/followers/fadhil30-0211?label=Followers&style=for-the-badge&color=2563EB" />
   </a>
 </p>
+
 ---
+
+### 🙋‍♂️ About Me
+
+I am a **Full-Stack Web & Mobile Developer** focused on building scalable, high-performance web systems and intuitive mobile applications. With strong hands-on experience in **Laravel**, **Flutter**, and **Modern UI Frameworks**, I enjoy turning complex business workflows into clean, maintainable digital products.
+
+- 🔭 **Currently Building:** Enterprise web portals, academic information systems, and interactive learning platforms.
+- 🌱 **Exploring:** Microservices architecture, RESTful API optimization, and AI-assisted web applications.
+- 🎨 **Design Philosophy:** Clean, responsive, and user-centered interfaces (Bento Grid & modern Tailwind UI).
+- ⚡ **Fun Fact:** Passionate about both clean code and graphic design.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,python,js,dart,flutter,kotlin,html,css,tailwind,bootstrap,mysql,git,github,vscode,androidstudio&perline=8" />
+  </a>
+</p>
+
+---
+
 ### 🚀 Featured Projects
 
-| Project | Tech Stack | Description | Link |
+| Project | Tech Stack | Key Highlights | Links |
 | :--- | :--- | :--- | :--- |
-| **SIAKAD Platform** | Laravel, Tailwind CSS, MySQL | Sistem Informasi Akademik terpadu dengan multi-role auth | [Demo](#) / [Repo](#) |
-| **Kelurahan Web Portal** | Laravel, Alpine.js, Tailwind | Portal layanan publik & universal tracking system | [Demo](#) / [Repo](#) |
-| **Mobile App** | Flutter, Dart | Aplikasi mobile dengan UI responsif & REST API | [Demo](#) / [Repo](#) |
+| **🎓 USTI Academic Portal (SIAKAD)** | `Laravel` `Tailwind CSS` `MySQL` | Integrated university portal with multi-role authentication, academic scheduling, and modern responsive UI. | [Live Demo](https://project-fadhil-ramadhan-usti.netlify.app) · [Repo](https://github.com/fadhil30-0211) |
+| **🏛️ Kelurahan Tebing Tinggi Okura** | `Laravel` `Alpine.js` `Tailwind` `DomPDF` | Official public service web portal featuring universal ticket tracking, automated PDF receipts, and UMKM directory. | [Repo](https://github.com/fadhil30-0211) |
+| **🤟 IsyaratKu Platform** | `Laravel` `Livewire` `MySQL` | Interactive sign-language learning web app with structured lesson modules, quizzes, and gamified badge tracking. | [Repo](https://github.com/fadhil30-0211) |
+| **♻️ EcoTrack Mobile** | `Kotlin` `Android Studio` `Room` `Retrofit` | Native Android waste-management application with local database caching and REST API integration. | [Repo](https://github.com/fadhil30-0211) |
 
 ---
-### 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,python,flutter,androidstudio,tailwind,bootstrap,mysql,git,vscode)](https://skillicons.dev)
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fadhil30-0211&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fadhil30-0211&theme=tokyonight" width="49%" />
+</p>
+
 ---
-### 📊 GitHub Stats & Summary
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fadhil30-0211&theme=dark)
-![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fadhil30-0211&theme=solarized_dark)
----
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fadhil30-0211)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fadhilramadhan743@gmail.com)
+
+<p align="center">
+  <i>💡 Open for collaboration, freelance projects, and software engineering opportunities!</i>
+</p>
