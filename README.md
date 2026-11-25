@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Apps+with+Laravel;Crafting+Cross-Platform+Apps+with+Flutter;Clean+UI%2FUX+%26+RESTful+API+Architecture" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Apps+with+Laravel;Crafting+Cross-Platform+Apps+with+Flutter;Clean+UI%2FUX+%26+RESTful+API+Architecture;Full-Stack+Developer+%7C+Informatics+Student" alt="Typing SVG" />
   </a>
 </p>
 
@@ -10,10 +10,13 @@
   <a href="mailto:fadhilramadhan743@gmail.com">
     <img src="https://img.shields.io/badge/Email-fadhilramadhan743%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/adhiariyadi">
+  <a href="https://linkedin.com/in/fadhil30-0211">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=fadhil30-0211&label=Profile%20Views&color=0F172A&style=for-the-badge" />
+  <a href="https://github.com/fadhil30-0211?tab=followers">
+    <img src="https://img.shields.io/github/followers/fadhil30-0211?label=Followers&style=for-the-badge&color=2563EB" />
+  </a>
 </p>
 
 ---
@@ -24,7 +27,7 @@ I am a **Full-Stack Web & Mobile Developer** focused on building scalable, high-
 
 - 🔭 **Currently Building:** Enterprise web portals, academic information systems, and interactive learning platforms.
 - 🌱 **Exploring:** Microservices architecture, RESTful API optimization, and AI-assisted web applications.
-- 🎨 **Design Philosophy:** Clean, responsive, and user-centered interfaces.
+- 🎨 **Design Philosophy:** Clean, responsive, and user-centered interfaces (Bento Grid & modern Tailwind UI).
 - ⚡ **Fun Fact:** Passionate about both clean code and graphic design.
 
 ---
@@ -33,7 +36,7 @@ I am a **Full-Stack Web & Mobile Developer** focused on building scalable, high-
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,python,js,dart,flutter,html,css,tailwind,bootstrap,mysql,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,python,js,dart,flutter,kotlin,html,css,tailwind,bootstrap,mysql,git,github,vscode,androidstudio&perline=8" />
   </a>
 </p>
 
@@ -43,10 +46,10 @@ I am a **Full-Stack Web & Mobile Developer** focused on building scalable, high-
 
 | Project | Tech Stack | Key Highlights | Links |
 | :--- | :--- | :--- | :--- |
-| **🎓 USTI Academic Portal (SIAKAD)** | `Laravel` `Tailwind CSS` `MySQL` | Integrated university portal with multi-role authentication and modern responsive UI. | [Repo](https://github.com/fadhil30-0211) |
-| **🏛️ Kelurahan Tebing Tinggi Okura** | `Laravel` `Alpine.js` `Tailwind` | Official public service web portal featuring universal ticket tracking and UMKM directory. | [Repo](https://github.com/fadhil30-0211) |
-| **🤟 IsyaratKu Platform** | `Laravel` `Livewire` `MySQL` | Interactive sign-language learning web app with quiz modules and gamified tracking. | [Repo](https://github.com/fadhil30-0211) |
-| **♻️ EcoTrack Mobile** | `Kotlin` `Android Studio` | Native Android waste-management application with local database caching. | [Repo](https://github.com/fadhil30-0211) |
+| **🎓 USTI Academic Portal (SIAKAD)** | `Laravel` `Tailwind CSS` `MySQL` | Integrated university portal with multi-role authentication, academic scheduling, and modern responsive UI. | [Live Demo](https://project-fadhil-ramadhan-usti.netlify.app) · [Repo](https://github.com/fadhil30-0211) |
+| **🏛️ Kelurahan Tebing Tinggi Okura** | `Laravel` `Alpine.js` `Tailwind` `DomPDF` | Official public service web portal featuring universal ticket tracking, automated PDF receipts, and UMKM directory. | [Repo](https://github.com/fadhil30-0211) |
+| **🤟 IsyaratKu Platform** | `Laravel` `Livewire` `MySQL` | Interactive sign-language learning web app with structured lesson modules, quizzes, and gamified badge tracking. | [Repo](https://github.com/fadhil30-0211) |
+| **♻️ EcoTrack Mobile** | `Kotlin` `Android Studio` `Room` `Retrofit` | Native Android waste-management application with local database caching and REST API integration. | [Repo](https://github.com/fadhil30-0211) |
 
 ---
 
