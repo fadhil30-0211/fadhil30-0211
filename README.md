@@ -12,7 +12,7 @@
   <a href="mailto:fadhilramadhan743@gmail.com">
     <img src="https://img.shields.io/badge/Email-fadhilramadhan743%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/fadhil30-0211">
+  <a href="https://linkedin.com/in/fadhil-ramadhan-5a285b32a">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=fadhil30-0211&label=Profile%20Views&color=0F172A&style=for-the-badge" />
